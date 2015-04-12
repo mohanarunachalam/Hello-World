@@ -1,2 +1,3 @@
 # Hello-World
 a sample repository of mine to understand how git works...
+Hi,i am mohan...i am learning coding now..I am a master's student
